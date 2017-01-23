@@ -3,9 +3,9 @@
     big-dumps.su747@linux.pl
     dedicated4856@linux.pl
     fedumps.su1701@safetyjabber.com
-    fedumps.su6714@jabber.icequake.net/Psi+
-    feshopdumps.ru5400@jabber.ozerki.net/Pandion
-    feshop-jet1.su022@safetyjabber.com/Pidgin
+    fedumps.su6714@jabber.icequake.net
+    feshopdumps.ru5400@jabber.ozerki.net
+    feshop-jet1.su022@safetyjabber.com
     feshop-reserve.ru1112@linux.pl
     hqservers065@jabber.or.kr
     hqservers6823@jabber.piratenpartei.de
