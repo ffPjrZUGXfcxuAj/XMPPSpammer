@@ -1,56 +1,56 @@
 
-    100820@jabber.ru
-    big-dumps.su747@linux.pl
-    dedicated4856@linux.pl
-    fedumps.su1701@safetyjabber.com
-    fedumps.su6714@jabber.icequake.net
-    feshopdumps.ru5400@jabber.ozerki.net
-    feshop-jet1.su022@safetyjabber.com
-    feshop-reserve.ru1112@linux.pl
-    hqservers065@jabber.or.kr
-    hqservers6823@jabber.piratenpartei.de
-    hqservers@jabber.org
-    igiaje@xmpp.jp
-    jid635@xmpp.su
-    jid831@jabberpl.org
-    jid@bin.vc
-    ordaproject3435@jabberpl.org
-    ordaproject.me1228@jabber.ozerki.net
-    ordaproject.me387@safetyjabber.com
-    reklama123@jabber.piratenpartei.de
-    reklama5017@jabberpl.org
-    safety_crypt215@xmpp.su
-    safety_crypt2540@jabber.piratenpartei.de
-    tylertylertylertyler666@xmppcomm.com
-    webshell1684@linux.pl
-    webshell8763@jabber.justlan.ru
-    sphinx114537@fuckav.in
-    moblin280@jabber.piratenpartei.de
-    angeloven408@j-talk.me
-    skizanub27873@bestjabber.com
-    bigdi685@tigase.im
-    fakeit@default.rs
-    fakeit@exploit.im
-    fakeit@darknet.im
-    fakeit@wwh.so
-    1899503@tigase.im
-    fed88@default.rs
-    fed88@exploit.im
-    respectoz0437@tigase.im
-    clayton256@pandion.im
-    silkroad_opt@xmpp.jp
-    sls-manager@jabber.pw
-    sls-manager@exploit.im
-    serega158352@tigase.im
-    issac1825@talk.mipt.ru
-    bruno5222@sj.ms
-    xxxdd@kdetalk.net
-    incognito@swissjabber.eu
-    freshop-reserve.ru1112@linux.pl
-    cruz407@jabber.piratenpartei.de
-    blackant@manydev.info
-    dell@fysh.in
-    daniel744@fuckav.in
+100820@jabber.ru
+big-dumps.su747@linux.pl
+dedicated4856@linux.pl
+fedumps.su1701@safetyjabber.com
+fedumps.su6714@jabber.icequake.net
+feshopdumps.ru5400@jabber.ozerki.net
+feshop-jet1.su022@safetyjabber.com
+feshop-reserve.ru1112@linux.pl
+hqservers065@jabber.or.kr
+hqservers6823@jabber.piratenpartei.de
+hqservers@jabber.org
+igiaje@xmpp.jp
+jid635@xmpp.su
+jid831@jabberpl.org
+jid@bin.vc
+ordaproject3435@jabberpl.org
+ordaproject.me1228@jabber.ozerki.net
+ordaproject.me387@safetyjabber.com
+reklama123@jabber.piratenpartei.de
+reklama5017@jabberpl.org
+safety_crypt215@xmpp.su
+safety_crypt2540@jabber.piratenpartei.de
+tylertylertylertyler666@xmppcomm.com
+webshell1684@linux.pl
+webshell8763@jabber.justlan.ru
+sphinx114537@fuckav.in
+moblin280@jabber.piratenpartei.de
+angeloven408@j-talk.me
+skizanub27873@bestjabber.com
+bigdi685@tigase.im
+fakeit@default.rs
+fakeit@exploit.im
+fakeit@darknet.im
+fakeit@wwh.so
+1899503@tigase.im
+fed88@default.rs
+fed88@exploit.im
+respectoz0437@tigase.im
+clayton256@pandion.im
+silkroad_opt@xmpp.jp
+sls-manager@jabber.pw
+sls-manager@exploit.im
+serega158352@tigase.im
+issac1825@talk.mipt.ru
+bruno5222@sj.ms
+xxxdd@kdetalk.net
+incognito@swissjabber.eu
+freshop-reserve.ru1112@linux.pl
+cruz407@jabber.piratenpartei.de
+blackant@manydev.info
+dell@fysh.in
+daniel744@fuckav.in
 126181352@xjabber.org
 395584303@jabber.algebra20.de 
 406416@jabber.sibnet.ru 
