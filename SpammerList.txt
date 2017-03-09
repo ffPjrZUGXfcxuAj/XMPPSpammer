@@ -63,6 +63,8 @@ reginald667@freexmpp.net
 daniel744@fuckav.in
 sphinx114537@fuckav.in
 dell@fysh.in
+dell@fysh.in
+imail@fysh.in
 imail@fysh.in
 mccartin201@germes.space
 romana.mersinger@germes.space
@@ -248,6 +250,10 @@ tamanaha523@justnet.pl
 willodeantaibi@justnet.pl
 yocage@justnet.pl
 yogrel@justnet.pl
+jab3r@kdetalk.net
+jaber@kdetalk.net
+jaer@kdetalk.net
+jjaber@kdetalk.net
 xxxdd@kdetalk.net
 xxxddd@kdetalk.net
 390@km-net.pl
@@ -295,6 +301,9 @@ blackant@manydev.info
 291672273@onex.hfblaw.com
 275@onexp.dencom.nl
 5840@onexp.dencom.nl
+jab9r@otr.chat
+jabbber@otr.chat
+jaberserver@otr.chat
 clayton256@pandion.im
 darkman6677765@pandion.im
 darkon835747@pandion.im
@@ -306,6 +315,13 @@ fedumps.su1701@safetyjabber.com
 feshop-jet1.su022@safetyjabber.com
 ordaproject.me387@safetyjabber.com
 bruno5222@sj.ms
+firstofall@swissjabber.ch
+jab4r@swissjabber.ch
+jabbber@swissjabber.ch
+jaber@swissjabber.ch
+jaberserv@swissjabber.ch
+jaberserver@swissjabber.ch
+megaupload@swissjabber.ch
 incognito@swissjabber.eu
 xmail@swissjabber.org
 8305@sync-hv.de
@@ -343,7 +359,9 @@ robaina815@xjabber.org
 dupoux@xjabber.pro
 poehlman174@xjabber.pro
 steckman673@xjabber.pro
+accs@xmpp.is
 namenamename@xmpp.is
+xmya@xmpp.is
 xxsend@xmpp.is
 igiaje@xmpp.jp
 silkroad_opt@xmpp.jp
